@@ -1,0 +1,11 @@
+{
+ "name": "Honourable",
+ "website": "https://Honourable.pro",
+ "description": "Rewards or gifts from blockchain hobby groups to respected contributors",
+ "explorer": "https://www.oklink.com/okexchain/tokenAddr/0xC609ff7128BD3C6B45C2E458928d7694385607Db",
+ "type": "KIP20",
+ "symbol": "HON",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xC609ff7128BD3C6B45C2E458928d7694385607Db"
+}
